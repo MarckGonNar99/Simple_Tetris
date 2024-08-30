@@ -1,2 +1,2 @@
-# Simplre_Tetris
+# Simple_Tetris
 A simple tetris game
